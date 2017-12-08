@@ -15,7 +15,7 @@ Miha = [gender["male"], race["white"], hair_color["brown"], eye_color["green"], 
 Sospechosos = [Eva, Larisa, Matej, Miha]
 Nombres = ["Eva", "Larisa", "Matej", "Miha"]
 
-#función de búsqueda en fichero de texto
+#función de búsqueda en fichero de texto.
 def match (sospechoso):
     cont = 0
     import re
